@@ -1,0 +1,8 @@
+C:\ASPNetCore\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.csproj.AssemblyReference.cache
+C:\ASPNetCore\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASPNetCore\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.AssemblyInfoInputs.cache
+C:\ASPNetCore\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.AssemblyInfo.cs
+C:\ASPNetCore\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.csproj.CoreCompileInputs.cache
+C:\ASPNetCore\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\ASPNetCore\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.RazorAssemblyInfo.cache
+C:\ASPNetCore\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.RazorAssemblyInfo.cs
